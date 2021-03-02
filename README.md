@@ -9,3 +9,5 @@ Neste projeto foi proposto o desafio de reconstruir a página inicial do Netflix
 ✔️CSS
 
 ✔️JavaScript
+
+https://thieleschwerz.github.io/Projeto-Netflix-Bootcamp-Dio
